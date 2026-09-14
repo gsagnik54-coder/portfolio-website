@@ -111,3 +111,16 @@ a:hover {
     background-color: #1e40af;
     text-decoration: none;
 } 
+    .btn {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: #1e40af;
+}
